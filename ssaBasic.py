@@ -1,5 +1,4 @@
 import numpy as np
-from scipy.linalg import hankel
 import matplotlib.pyplot as plt
 import seaborn as sns
 from numpy.matlib import repmat
@@ -138,7 +137,7 @@ class ssaBasic:
         Input:
         - r0: Specifies which singular values to use for the reconstruction.
         If r0 is a scalar, the first r0 singular values are used.
-        If r0 is a vector (e.g., [1 2 5]), the singular values at the corresponding positions are used (e.g., the first, second, and fifth).
+        If r0 is a vector (e.g., [0 1 4]), the singular values at the corresponding positions are used (e.g., the first, second, and fifth).
 
         Output:
         - y: A vector containing the recontructed signal
