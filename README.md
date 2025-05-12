@@ -1,6 +1,6 @@
 # Singular Spectrum analysis
 
-Welcome to the Singular Spectrum analysis project. This repository hosts the code and examples for a non-parametric and automated algorithm for time-series analysis. The goal of this project is to provide a transparent, reproducible codebase for the actuarial use-cases. This repository is based on the Matlab code published by Casalini, Riccardo, Singular Spectrum Analysis: Back to basics (February 13, 2025).
+Welcome to the Singular Spectrum analysis project. This repository hosts the code and examples for a non-parametric and automated algorithm for time-series analysis. The goal of this project is to provide a transparent, reproducible codebase for the actuarial use-cases. This repository is based on the Matlab code published by [Casalini, Riccardo, Singular Spectrum Analysis: Back to basics (February 13, 2025)]( https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5136637).
 
 ________________________________________
 ## Overview
